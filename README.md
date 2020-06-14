@@ -1,12 +1,12 @@
 # MPCNC_Primo_DeWalt 660_Mount
 
-##Basic mount.
+## Basic mount.
 
 On the top mount the word "UP" should be mounted so it can be read properly. The camps have a rounded corner side and a chamfered side, they match the mount part.
 
 You will need to rotate the spindle lock to make the mount work properly. To move this around you need to unscrew the 4 screws of the lower portion of the 660 and turn it 90 degrees. Do not pull the motor all the way apart or you will need to reset the brushes in the top of the router. The DeWalt lock button can face in either of the two front facing directions (I align it with the DeWalt label). The DeWalt label should face the V1 Logo on the top Clamp.
 
-##Cut Calculator offset 
+## Cut Calculator offset 
 9mm XY, 2.75mm Z. 
 This router eats 8.5mm of your work area shown in the cut calculator on both X and Y axis, and 2.75mm in the Z direction.
 
