@@ -2,7 +2,7 @@
 
 ### Basics
 
-Have alook at the diagrams for more info
+Have a look at the diagrams for more info
 
 
 ### License
