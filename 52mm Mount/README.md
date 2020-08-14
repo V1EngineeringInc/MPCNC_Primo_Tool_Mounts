@@ -2,7 +2,7 @@
 
 ### Basics
 
-45% infill reccomended
+45% infill recommended
 
 
 ### License

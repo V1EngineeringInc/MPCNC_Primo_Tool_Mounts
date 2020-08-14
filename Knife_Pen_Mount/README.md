@@ -1,4 +1,4 @@
-# MPCNC Primo 55mm Mount
+# MPCNC Primo Knife/Pen Mount
 
 ### Basics
 

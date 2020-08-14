@@ -1,4 +1,4 @@
-# MPCNC Primo 55mm Mount
+# MPCNC Primo Makita 700 Series Mount
 
 ### Basics
 
